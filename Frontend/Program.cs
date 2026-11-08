@@ -33,7 +33,9 @@ string Menu()
     Console.WriteLine("3. Contains.");
     Console.WriteLine("4. Remove.");
     Console.WriteLine("5. Reverse.");
-    Console.WriteLine("6. Show lists.");
+    Console.WriteLine("6. Insert.");
+    Console.WriteLine("7. Order.");
+    Console.WriteLine("8. Show lists.");
     Console.WriteLine("0. Exit.");
     Console.Write("Enter your option? ");
     return Console.ReadLine()!;
